@@ -1,4 +1,4 @@
-#Linear Regression 
+# Linear Regression 
 
 Dataset:  [Facebook Comment Volume Dataset](https://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset)
 
@@ -8,4 +8,4 @@ Target: The number of comments
 * Featuture normalization
 * Cross-validation 
 * Gradient descent
-* Metrics: %R^2% and RMSE
+* Metrics: R2 and RMSE
