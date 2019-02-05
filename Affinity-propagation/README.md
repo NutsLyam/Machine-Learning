@@ -1,6 +1,6 @@
 # Affinity propagation
 
-Dataset:[loc-gowalla_edges](https://snap.stanford.edu/data/loc-Gowalla.html)
+Dataset: [loc-gowalla_edges](https://snap.stanford.edu/data/loc-Gowalla.html)
 
 Grouping Users into clusters 
 
