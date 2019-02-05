@@ -8,4 +8,4 @@ Target: The number of comments
 * Featuture normalization
 * Cross-validation 
 * Gradient descent
-* Metrics: R^2 and RMSE
+* Metrics: %R^2% and RMSE
